@@ -1,0 +1,2 @@
+# Preserve dataset bytes so its published SHA-256 remains reproducible.
+data/wine.csv -text whitespace=cr-at-eol

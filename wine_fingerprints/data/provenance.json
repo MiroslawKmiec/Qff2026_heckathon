@@ -1,0 +1,10 @@
+{
+  "source": "https://archive.ics.uci.edu/dataset/109/wine",
+  "doi": "10.24432/C5PC7J",
+  "obtained_via": "sklearn.datasets.load_wine (bundled UCI copy)",
+  "licence": "CC BY 4.0 (UCI dataset page)",
+  "rows": 178,
+  "features": 13,
+  "labels": "CSV uses cultivar 1,2,3; internal arrays use 0,1,2",
+  "sha256": "fc03d2d5ca55316303fc754129f8b0f024487d237a76a13d406995055143039d"
+}

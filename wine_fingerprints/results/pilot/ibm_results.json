@@ -1,0 +1,23 @@
+{
+  "job_id": "dbes98ngdj9s73fmct60",
+  "backend": "ibm_fez",
+  "quantum_seconds": 52,
+  "accuracy": 0.7777777777777778,
+  "balanced_accuracy": 0.7222222222222222,
+  "macro_f1": 0.7555555555555555,
+  "predictions": [
+    1,
+    1,
+    2,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1
+  ],
+  "retained_modes": 10,
+  "train_kernel_mae": 0.11599132072700237,
+  "test_kernel_mae": 0.12770595361572193,
+  "mean_self_overlap": 0.7034505208333334
+}

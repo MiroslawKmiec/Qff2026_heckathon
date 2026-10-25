@@ -1,0 +1,11 @@
+{
+  "state": "DONE",
+  "backend": "ibm_fez",
+  "timestamp": "2026-10-25T08:58:08.005317+00:00",
+  "max_execution_time": 360,
+  "reserved_seconds": 120,
+  "remaining_before_seconds": 517,
+  "isa_sha256": "7802535f77bcf135e94e6bb9d9d969e8cef915e11bc731cdcbea695bbfd3b9c6",
+  "job_id": "dbes98ngdj9s73fmct60",
+  "quantum_seconds": 52
+}

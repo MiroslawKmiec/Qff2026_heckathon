@@ -1,0 +1,18 @@
+{
+  "backend": "fake_torino",
+  "offline": true,
+  "submitted": false,
+  "circuits": 186,
+  "shots": 1024,
+  "max_execution_time": 360,
+  "remaining_seconds_user_supplied": 480,
+  "reserve_seconds": 120,
+  "estimated_seconds": 50.55460659200018,
+  "rep_delay": 0.00025,
+  "reset_bound_seconds": 1.848e-06,
+  "max_depth": 71,
+  "max_two_qubit_gates": 12,
+  "logical_sha256": "7bf54ec3aed2b4a15d2d16928f391dc1c08eb51a7d1011a0e600789c03105a95",
+  "isa_sha256": "7baaf4509c6117aa027fe04fef213defa8eaac6d3dd4257c7bf988c27e739a7f",
+  "warning": "Timing is an estimate, not a billing guarantee. Fake target is not a live calibration. Verify actual remaining account usage before submission."
+}
