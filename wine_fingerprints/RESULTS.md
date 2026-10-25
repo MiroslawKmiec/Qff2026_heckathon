@@ -1,5 +1,8 @@
 # Local and IBM hardware results — protocol v1
 
+Watch the [project demo video](https://youtu.be/i-6KGcdVIt0) or read the
+[presentation slides](presentation/Quantum_Wine_Fingerprints.pdf).
+
 Run date: 2026-10-25. Full metrics, predictions, grids, and package versions are in
 [benchmark.json](results/benchmark.json). Data split seed: 20261025.
 
